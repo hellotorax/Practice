@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="5351" started-at="2019-05-27T18:11:07Z" finished-at="2019-05-27T18:11:12Z">
+  <suite name="Suite" duration-ms="6346" started-at="2019-05-27T18:24:16Z" finished-at="2019-05-27T18:24:23Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="5351" started-at="2019-05-27T18:11:07Z" finished-at="2019-05-27T18:11:12Z">
+    <test name="Test" duration-ms="6346" started-at="2019-05-27T18:24:16Z" finished-at="2019-05-27T18:24:23Z">
       <class name="HandsOn.Handson.ExecuteTest">
-        <test-method status="PASS" signature="mExcute()[pri:0, instance:HandsOn.Handson.ExecuteTest@48140564]" name="mExcute" duration-ms="5338" started-at="2019-05-27T23:41:07Z" finished-at="2019-05-27T23:41:12Z">
+        <test-method status="PASS" signature="mExcute()[pri:0, instance:HandsOn.Handson.ExecuteTest@48140564]" name="mExcute" duration-ms="6323" started-at="2019-05-27T23:54:16Z" finished-at="2019-05-27T23:54:23Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mExcute -->

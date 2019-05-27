@@ -21,7 +21,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 	
 	public static void startSelenium(){
 		
-		System.setProperty("webdriver.chrome.driver", "/Users/bhagyashreedas/Downloads/chromedriver");	
+		System.setProperty("webdriver.chrome.driver", "/Users/Shared/Jenkins/Home/workspace/chromedriver");	
 		driver = new ChromeDriver(); 
 		driver.get("https:www.facebook.com");
 		driver.quit();
