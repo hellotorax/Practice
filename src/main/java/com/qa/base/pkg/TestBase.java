@@ -10,8 +10,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 //import org.apache.log4j.Logger;
 
 
-
-public class TestBase {
+  public class TestBase {
 	
 	
 	
@@ -20,7 +19,7 @@ public class TestBase {
 	
 	
 	
-	TestBase(){
+	protected TestBase(){
 		
 		try{
 			
@@ -61,11 +60,7 @@ public class TestBase {
 		}
 		
 	
-	public static void main(String args[]){
-		
-		TestBase tb = new TestBase();
-		TestBase.initiaLization();
-	}
+	
 	}
 	
 
