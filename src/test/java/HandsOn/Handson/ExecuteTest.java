@@ -19,7 +19,7 @@ public class ExecuteTest extends TestBase {
 	@Test
 	public  void mExcute(){
 		ExecuteTest et = new ExecuteTest();
-		TestBase.initiaLization();
+		//TestBase.initiaLization();
 	}
 
 }
