@@ -32,7 +32,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 		driver = new ChromeDriver(); 
 		
 		driver.get("https:www.facebook.com");
-		ScreenShot.screenShot(driver, "/Users/Shared/test.png");
+		ScreenShot.screenShot(driver, "/Users/Shared/"+System.currentTimeMillis()+"test.png");
 		driver.quit();
 	}
 	
